@@ -1,2 +1,2 @@
-# incotnitco-extension
+# incognitco-extension
 IncognitCo Chrome Extension
