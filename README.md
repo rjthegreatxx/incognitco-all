@@ -1,2 +1,2 @@
-# incognitco-extension
-IncognitCo Chrome Extension
+# incognitco-all
+IncognitCo Chrome Extension and related projects
